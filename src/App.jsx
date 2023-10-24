@@ -1,9 +1,13 @@
 import { useState } from 'react'
 
-function App() {
+
+// Este es el componente principal, se exporta para ser usada
+// en el archivo main
+
+export function App() {
   return (
     <div>Hola Mundo!!!</div>
   )
 }
 
-export default App
+
