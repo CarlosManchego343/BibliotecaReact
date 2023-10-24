@@ -1,5 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+
+// Por el tipo de exportancion se usa la expresion entre corchetes
 import { App } from './App.jsx'
 
 // Al ser la funcion main del codigo se le pide que se renderize
