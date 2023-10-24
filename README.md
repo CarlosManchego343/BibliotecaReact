@@ -29,4 +29,23 @@ Es la base de todo el codigo React
 
 - Se puede: Dar valor a los atributos de los elementos HTML, usar las expresiones en condicionales y bucles, se puede crear varios elementos dentro de uno solo, etc.
 
+# Chackra UI
+
+Es una libreria que proporciona componenetes ya realizados, siendo muy util en la creación de aplicaciones en React.
+
 # React + Vite
+
+Vite es una herramienta que permite rear una aplicacion en diferentes tecnologias.
+
+Se hace uso de la siguiente instruccion:
+
+```
+    npm create vite@latest    
+```
+
+luego se instalan las dependencias con:
+
+```
+    npm i  
+```
+
