@@ -49,3 +49,11 @@ luego se instalan las dependencias con:
     npm i  
 ```
 
+# Hooks
+
+Son caracteristicas ddreract que nos sirve para almacenar el estado de un componente y para hace uso de un efecto de dicho componente: 
+
+```
+    const [count, setCount] = useState(0); 
+```
+
